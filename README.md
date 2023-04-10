@@ -24,4 +24,4 @@ The Quiz will be timed. If you fail to complete the quiz before the timer runs o
 
 ▷ [Trello](https://trello.com/w/project2quizwebsite)
 
-▷ [organiz](https://github.com/Quiztopia/Quiztopia)
+▷ [organizations link](https://github.com/Quiztopia/Quiztopia)
